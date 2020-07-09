@@ -18,7 +18,7 @@ In this project, we build a Ruby on Rails app with a similar behavior than Faceb
 - Create posts and comments.
 - Like and unlike their own posts/comments and their friends.
 
-<div align="center"><img src="app/assets/images/screencapture-localhost-3000-2020-02-17-15_32_03.png"></div>
+<div align="center"><img src="app/assets/images/falsebook.png"></div>
 
 <p align="center"> <a href="https://young-fortress-61632.herokuapp.com">Live version</a></p>
 
